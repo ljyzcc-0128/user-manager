@@ -1,0 +1,15 @@
+/Users/jinxiansen/IdeaProjects/user-manager/src/main/java/com/example/ums/service/UserService.java
+/Users/jinxiansen/IdeaProjects/user-manager/src/main/java/com/example/ums/controller/UserController.java
+/Users/jinxiansen/IdeaProjects/user-manager/src/main/java/com/example/ums/config/JwtAuthenticationFilter.java
+/Users/jinxiansen/IdeaProjects/user-manager/src/main/java/com/example/ums/service/UserDetailsServiceImpl.java
+/Users/jinxiansen/IdeaProjects/user-manager/src/main/java/com/example/ums/repository/UserRepository.java
+/Users/jinxiansen/IdeaProjects/user-manager/src/main/java/com/example/ums/UmsApplication.java
+/Users/jinxiansen/IdeaProjects/user-manager/src/main/java/com/example/ums/util/JwtUtil.java
+/Users/jinxiansen/IdeaProjects/user-manager/src/main/java/com/example/ums/config/JwtAuthenticationEntryPoint.java
+/Users/jinxiansen/IdeaProjects/user-manager/src/main/java/com/example/ums/config/SecurityConfig.java
+/Users/jinxiansen/IdeaProjects/user-manager/src/main/java/com/example/ums/dto/UserDTO.java
+/Users/jinxiansen/IdeaProjects/user-manager/src/main/java/com/example/ums/entity/User.java
+/Users/jinxiansen/IdeaProjects/user-manager/src/main/java/com/example/ums/controller/AuthController.java
+/Users/jinxiansen/IdeaProjects/user-manager/src/main/java/com/example/ums/dto/PasswordChangeDTO.java
+/Users/jinxiansen/IdeaProjects/user-manager/src/main/java/com/example/ums/exception/GlobalExceptionHandler.java
+/Users/jinxiansen/IdeaProjects/user-manager/src/main/java/com/example/ums/service/AuthService.java
